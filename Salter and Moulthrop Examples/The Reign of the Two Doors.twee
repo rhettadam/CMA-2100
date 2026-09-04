@@ -1,0 +1,43 @@
+:: StoryTitle
+The Reign of the Two Doors
+
+
+:: StoryData
+{
+  "ifid": "1647D311-8EE3-481A-8CAE-C868406C5071",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "The Reign of the Two Doors",
+  "zoom": 1
+}
+
+
+:: Left Behind {"position":"725,825","size":"100,100"}
+Moving at last through the door the writer apparently doesn't want you to take, you begin
+to float above the confines of the labyrinth, leaving fools behind. rise up, you lovely winner.
+
+
+:: Not Right {"position":"575,700","size":"100,100"}
+You find yourself in the Place of No Winning. It is a simple room with, of course, two doors.
+
+[[The Init Door->The Reign of the Two Doors]]
+[[The Exit Door->The Reign of the Two Doors]]
+
+
+:: Right! {"position":"825,625","size":"100,100"}
+right. Always take the door on the right. You get it now.
+
+[[Always right->The Reign of the Two Doors]]
+[[Left Behind]]
+
+
+:: The Reign of the Two Doors {"position":"575,425","size":"100,100"}
+You find yourself in the two-door universe. It was slightly less expensive than the three- or four-door models and all we could afford.
+
+[[Go through the left door->Not Right]]
+[[go through the right door]]
+
+
+:: go through the right door {"position":"900,425","size":"100,100"}
+[[Left! Maybe it will work this time->Not Right]]
+[[Right!]]

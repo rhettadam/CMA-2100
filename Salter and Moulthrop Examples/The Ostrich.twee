@@ -1,0 +1,28 @@
+:: StoryTitle
+The Ostrich
+
+
+:: StoryData
+{
+  "ifid": "E2E9D2F5-1615-4DB6-BC8F-984D62824931",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "gumballs",
+  "zoom": 1
+}
+
+
+:: gumballs {"position":"550,750","size":"100,100"}
+Once, for an entire week between the ages of two and two-point-one, your entire vocabulary consisted of the word "gumball," which became the name of every person and object as well as the lone verb in your dramatic revision of the human language. Now, somehow, the occurrence of this word makes you vaguely [[uncomfortable]]
+
+
+:: ostrich {"position":"500,575","size":"100,100"}
+But here it is, maybe slightly larger than life, in the middle of your Auntie Integer's sunroom. A flightless bird with eyes the size of [[gumballs]]
+
+
+:: the last thing {"position":"575,425","size":"100,100"}
+. . . on this of all mornings, the last thing anyone wants to see is an [[ostrich]].
+
+
+:: uncomfortable {"position":"875,600","size":"100,100"}
+"!!!" says the ostrich, also apparently unsettled. But you speak Human, not ostrich. You take a step closer. "!!!," the ostrich reasserts. You carefully blink each of your eyes in succession, an old trick for stabilizing realities. it is unmistakably an ostrich [[and . . .->the last thing]]
