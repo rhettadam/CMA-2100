@@ -1,0 +1,28 @@
+:: StoryTitle
+Door Demo
+
+
+:: StoryData
+{
+  "ifid": "1E9E17AF-FBFA-4E12-955A-B23413852AAD",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: \ Hallway {"position":"825,475","size":"100,100"}
+
+
+
+:: Open the door {"position":"700,475","size":"100,100"}
+[[Knock first -> Hallway]] 
+
+
+:: Untitled Passage {"position":"700,350","size":"100,100"}
+[[Open the door]]
+
+
+:: Untitled Passage 1 {"position":"825,350","size":"100,100"}
+[[Knock first -> Hallway]]
